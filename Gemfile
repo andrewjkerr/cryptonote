@@ -37,7 +37,7 @@ gem 'coffee-rails', '~> 4.0.0'
 # Use jquery as the JavaScript library
 gem 'jquery-rails', "~> 3.1.0"
 
-gem 'compass-rails', '~> 1.1.7'
+gem 'compass-rails', '~> 2.0.0'
 
 gem 'zeroclipboard-rails', '~> 0.1.0'
 
